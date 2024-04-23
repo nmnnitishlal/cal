@@ -1,0 +1,32 @@
+.calculator{
+    margin-left: 400px;
+    margin-top: 160px;
+    border: 30px solid black;
+    width: 335px;
+    height: 205px;
+    border-style:groove;
+    border-color: black;
+    
+}
+#input{
+    display: block;
+    width: 325px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 40px;
+    
+}
+button:hover{
+    color:blue;
+    cursor:grab;
+    border-right: red;
+    border-top: green;
+    border-left: blue ;
+    
+}
+button{
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    
+}
